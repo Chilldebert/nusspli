@@ -13,7 +13,7 @@
 /* Database configuration */
 $config['db_server']    = 'localhost';  // database server
 $config['db_user']      = 'root';    // DB user for connection
-$config['db_password']  = '7799225';           // password for above user
+$config['db_password']  = '';           // password for above user
 $config['db_database']  = 'videodb2';    // Database name
 $config['db_prefix']    = 'videodb_';   // Database table prefix (for use in hosting environments)
 
